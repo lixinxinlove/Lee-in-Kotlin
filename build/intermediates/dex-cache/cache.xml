@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_bb98b0b5a45891c606868c27bf8a43d414a1a8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\269c6c65ebb3ac9319c444b77c99bfc6235d52b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abc15f5f1c0937830a566645c922877452b8235c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\18bfa6dee748e9cd222f8497f13b99ce117de5cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3637204d4aedc23cd4385a73b953f788e452f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\05bd680e5c9b2af266c2f297c027fcd83e5702e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34ea5b167fe32e10a8338f3c9728c4bd9a39b189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\92a46bf64ef4c59a58a2c24f8818c5147ff46377\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="66a1d4f34577652d06641c7166d9bd762dc4b469">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4d8bfcb06f1c466c773978b95a2655146272738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5a5964758dbba8df276a94c2e8bd5056cc8c63f">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e40685c2c5a9788b127fbf6dfef32cb9cfdbc5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.4.0_4c5b3ed85208dfc957756f661ec175890940b70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\5159357c3064537a915d9cf6677f7e0133535646\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a093a8b16dd008b27ecce4fdf374b8454210408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_4119fe4512fa77f84a748c069f9d417810f90535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_a042be0c1dc1dec02640e076b483deff04f639e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\4ec30137e309574903640b094bcd6fabec3a68ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12e745f876691fe4c0fa20c2b5a6af12566f8b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.21\139535a69a4239db087de9bab0bee568bf8e0b70\slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.21_c4aa5dc621ebe9b4d16ae6f68f17860e2148f926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\80f20488f99cab38468efd1e0b2ecafea8eaa28d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc6d38897d356919526ab0dba5a256db8ef80564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\f954393996b7b2daafe975be74af952d2bd3ed47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0bdc2af12eae42ddfdc290c4f8ce3c7dc7e0dcf1">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03ee563910ef6651d787b6ec10f67bbdcf0b7588\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.2.0\3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c\adapter-rxjava2-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava2-2.2.0_93cb54321b5b126beb42ec3ac17aec54ac9c97e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_4630d533b4d42fcfac91bcaafb96c8bb63eb1553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.6.0\81887458b69ddc32722df7e4c35235fd74e6a8ba\logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.6.0_c4c5deced398a69f01df4e29aab1535cd0ccdca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_5b25b0c8fa6fd33e42d817fb2c25db719d49b606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\6840decde72a3227c77962ed98a5389a1dc86775\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="91d213f056515b6c839364717ae0f34799ed25b7">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b4093d09642ace2fe181ab3f18d566b2337cea8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_5b99460e926e59ce4b5d00b1155e1bad0101d3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_da368de4b991165f25c64af542efc6616e842188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_786266face7c8e1fc3cc40ed1ca578da2a401096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\81324388f398376ff1b1812f236254ed1a878e4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43116ee3f66972ddf7ee9697879b7cb6c8794118">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5efb32b62881ebef7ea77368e3323487edf57052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\5c715e35a8ffbf1f0aee3189635f976a73390ad5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f47b607afe6e35767c615f87ce7d5f187910f7c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\12dd0bcfa3977f849990055254e6bcebdc9e2dd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a7f901c17938cd8d719bb5370c4556cf4238d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.jakewharton.retrofit\retrofit2-rxjava2-adapter\1.0.0\e117362a2103f8ec01091ebd2f40aca4e1ada599\retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit2-rxjava2-adapter-1.0.0_1aa8f524d9a3cddd7948aa1dd613f64576aac724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-android\1.7.21\f4f6a07c00f3996d8db58c85a3d73377b40611eb\slf4j-android-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-android-1.7.21_940dc6b419fe23bd157e9931bf3c4fb9a324fc63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\acef3cc84cd836dc7601653112438178fca2b795\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ee43077c5c2f33dbbcde5bf8deccfa3d568b52d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\45b843a46dc3596a56d383739ec70ef01df0a778\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3e2c2cd5094a91e5a9221e857379fd8163dfbee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\2391fedee5acdb2533a94efbcbfda5112f57063f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ef0e524dfd63ec3620b6c6803e57fea5de00444">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_482419847d4c76ca8de3a4de90187f5f47d6e2d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\eba2417187eba059855ace7ec89bdaac8fd2c3b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f57436822282eb2a663d9273567fe0d0d0b1312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.7\21734c0092a5d3c3ec99510e50c1ff76bdf0c65a\rxjava-2.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21734c0092a5d3c3ec99510e50c1ff76bdf0c65a">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.7_3ead3712ee7a1101505f809c967c4fb93cbd29ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_b7e9ab2e16c01c73715b23c9a761537fd7ebc68b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\c385ed689f61bbdb51181a085634bdd64680ef1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c2c1079470f9885b056c8949b37c4a84c57a559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\4129e5b2485771641be2b7ae88e389326e9e13ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0dc70a9bde2d0fe3004554b300a08a458a76bc0">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9dba3007f9cd2af0b0f76e318367e5cda392263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\6ccf849c6385ee55db1be71551ed73e87acc0628\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32eadb7a763a709dee7f88a435b744a822134692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\91387d36778660c4ca0507a67b157e007752b8bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f556a735163b9fecc644f2c47b7d8fd6c177b794">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2989704f89caf665521729e3caf7ce0680ea27b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\a58ad96982e551eaf12d73a23553af978b67035e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f954d11b06cb52553680a31b7ea688c095ed173f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_00844c596a9e99af07062797cbd7b1311c5514ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\d32b4ee19b66a291471c032bac1e8aee5da81373\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2de3d6eca2cd6eea8da5c5b03a085f56b4f332d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\13a70610e7860e4d8ef0fa5fd66c4f87e10e4252\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5183e2ceb8b841e1aff704b8972b04d947bffe8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_4405766112de2adf2afb661b227b8107f52b44f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\tools\yht\android-sdk\.android\build-cache\d9804bc0ccd5e8eae98244b657a1e1b7efef44f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a084a07aa464be1a741f98b99d43cc7199b60391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\AndroidStudioProject\Eyepetizer-in-Kotlin\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_c6cbe56f242e1b69c692dea60b38c409b2226d44\classes.dex" />
+    </item>
+
+</items>
